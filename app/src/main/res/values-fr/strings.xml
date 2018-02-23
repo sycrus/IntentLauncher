@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intent Launcher</string>
+    <string name="message_hint">Votre message</string>
+    <string name="title_hint">" Titre"</string>
+    <string name="send_email_button">Envoyer un email</string>
+    <string name="only_checkbox">Envoyer seulement le titre</string>
+    <string name="launch_camera_button">" Lancer la caméra"</string>
+    <string name="launch_activity_button">Lancer l\'activité</string>
+</resources>
